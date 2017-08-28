@@ -1,4 +1,4 @@
-This is where I keep a copy of the public site www.happhousemedia.com.
+This is where I keep a copy of the public site www.happyhousemedia.com.
 
 Public license forthcoming.
 
